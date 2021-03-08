@@ -1,0 +1,26 @@
+{
+  "name": "bots",
+  "version": "1.0.0",
+  "description": "all about bots",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohmanahmad/bots.git"
+  },
+  "keywords": [
+    "bots"
+  ],
+  "author": "rohmanahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohmanahmad/bots/issues"
+  },
+  "homepage": "https://github.com/rohmanahmad/bots#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "optimist": "^0.6.1"
+  }
+}
